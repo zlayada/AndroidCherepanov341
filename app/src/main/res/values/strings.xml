@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Переключение цветов</string>
+    <string name="textScreen">Переключение языков</string>
+    <string name="tLanguageText">Переключить язык</string>
+    <string name="rus">Русский</string>
+    <string name="eng">Английский</string>
+    <string name="black">Черный</string>
+    <string name="green">Зеленый</string>
+    <string name="blue">Голубой</string>
+
+    <string-array name="languageText">
+        <item>@string/rus</item>
+        <item>@string/eng</item>
+    </string-array>
+
+    <string-array name="colorSpinner">
+        <item>@string/black</item>
+        <item>@string/green</item>
+        <item>@string/blue</item>
+    </string-array>
+
+</resources>

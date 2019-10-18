@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Color switching</string>
+    <string name="textScreen">Language switching</string>
+    <string name="tLanguageText">Switch language</string>
+    <string name="rus">Russian</string>
+    <string name="eng">English</string>
+    <string name="black">Black</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+
+    <string-array name="languageText">
+        <item>@string/rus</item>
+        <item>@string/eng</item>
+    </string-array>
+
+    <string-array name="colorSpinner">
+        <item>@string/black</item>
+        <item>@string/green</item>
+        <item>@string/blue</item>
+    </string-array>
+</resources>

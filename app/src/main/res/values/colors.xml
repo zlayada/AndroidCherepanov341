@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorPrimaryBlack">#1D1C1C</color>
+    <color name="colorPrimaryDarkBlack">#020202</color>
+    <color name="colorAccentBlack">#DD2C00</color>
+    <color name="colorTextLightBlack">#FFFFFF</color>
+    <color name="colorTextBlack">#A3A2A2</color>
+    <color name="colorBackgroundBlack">#070606</color>
+    <color name="colorButtonBlack">#A24604</color>
+
+    <color name="colorPrimaryGreen">#02411C</color>
+    <color name="colorPrimaryDarkGreen">#036D2F</color>
+    <color name="colorAccentGreen">#00B8D4</color>
+    <color name="colorTextLightGreen">#022E14</color>
+    <color name="colorTextGreen">#073F03</color>
+    <color name="colorBackgroundGreen">#48B32B</color>
+    <color name="colorButtonGreen">#037E64</color>
+
+    <color name="colorPrimaryBlue">#05127C</color>
+    <color name="colorPrimaryDarkBlue">#0E23D6</color>
+    <color name="colorAccentBlue">#3EA7E7</color>
+    <color name="colorTextLightBlue">#020E2E</color>
+    <color name="colorTextBlue">#1DD6E7</color>
+    <color name="colorBackgroundBlue">#0091EA</color>
+    <color name="colorButtonBlue">#6200EA</color>
+</resources>

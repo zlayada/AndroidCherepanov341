@@ -1,0 +1,43 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="ThemeBlack" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryBlack</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkBlack</item>
+        <item name="colorAccent">@color/colorAccentBlack</item>
+        <item name="android:windowBackground">@color/colorBackgroundBlack</item>
+        <item name="android:textColorPrimary">@color/colorTextBlack</item>
+        <item name="android:colorButtonNormal">@color/colorButtonBlack</item>
+        <item name="android:textColor">@color/colorTextBlack</item>
+    </style>
+
+    <style name="ThemeGreen" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryGreen</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGreen</item>
+        <item name="colorAccent">@color/colorAccentGreen</item>
+        <item name="android:windowBackground">@color/colorBackgroundGreen</item>
+        <item name="android:textColorPrimary">@color/colorTextGreen</item>
+        <item name="android:colorButtonNormal">@color/colorButtonGreen</item>
+        <item name="android:textColor">@color/colorTextBlack</item>
+    </style>
+
+    <style name="ThemeBlue" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkBlue</item>
+        <item name="colorAccent">@color/colorAccentBlue</item>
+        <item name="android:windowBackground">@color/colorBackgroundBlue</item>
+        <item name="android:textColorPrimary">@color/colorTextBlue</item>
+        <item name="android:colorButtonNormal">@color/colorButtonBlue</item>
+        <item name="android:textColor">@color/colorTextBlue</item>
+    </style>
+
+
+</resources>
